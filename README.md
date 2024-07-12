@@ -24,7 +24,21 @@ Mentor:GOUNI SRAVANI
 <img width="944" alt="image" src="https://github.com/user-attachments/assets/811cc459-17cb-4cbd-b2c5-7d427c79c144">
 
 
+
+
+
+
+
+
+
 #objective:To create a dynamic and user-friendly social media application that fosters community engagement by allowing users to connect, share content, and interact with one another through a variety of features such as posts, comments, likes, and follow. The platform aims to provide a seamless user experience, ensuring privacy and security while promoting creativity and meaningful connections among its users.
+
+
+
+
+
+
+
 
 
 #Installation
